@@ -167,8 +167,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🔗 Connect
 
 Built as part of my AI learning journey. Connect with me on:
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- LinkedIn: [Bharath](www.linkedin.com/in/bharath-m-440b1a130)
+- GitHub: [@forthexp](https://github.com/forthexp)
 
 ---
 
