@@ -1,0 +1,14 @@
+[project]
+name = "ai-website-scraper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain-community>=0.3.27",
+    "langchain-core>=0.3.74",
+    "langchain-ollama>=0.3.6",
+    "selenium>=4.35.0",
+    "streamlit>=1.48.1",
+    "unstructured>=0.18.13",
+]
