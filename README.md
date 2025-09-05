@@ -1,4 +1,4 @@
-# 🕷️ AI WebScraper Chat - Intelligent Web Content Q&A
+# 🕷️ AI WebScraper RAG Chat - Intelligent Web Content Q&A
 
 <img width="1609" height="745" alt="image" src="https://github.com/user-attachments/assets/0d048eaf-0606-4640-81c2-34a01ae4a249" />
 
